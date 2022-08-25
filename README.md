@@ -2,7 +2,10 @@
 A DigitalMicrograph (DM) custom script which allows batch-FFT filtering using manually applied masks to all open STEM images
 
 
+
+
 This script is a batch-adaptation of "FFT-MASK-Example.s" version:20071231 by D. R. G. Mitchell (can be found in https://www.felmi-zfe.at/cms/wp-content/uploads/dm-scripts/5869/FFT-MASKS-Examples.s)
+
 
 It requires the user to open the desired STEM images which they wish to carry out the FFT filtering.
 
@@ -20,4 +23,5 @@ After generating inverse-FFT images, the user has the option to close all image 
 This option is added for a case in which the user wishes to apply masked FFT filtering to the same images but with a different location of the mask.
 
 
-It should be noted that identical masks are applied to all images.
+
+***It should be noted that identical masks are applied to all images.
