@@ -1,5 +1,8 @@
 # open-batch-FFT-MASK
-A DigitalMicrograph (DM) custom script which allows batch-FFT filtering using manually applied masks to all open STEM images
+
+This repository contains a custom script for Gatan's Microscopy Suite (GMS) Software a.k.a. DigitalMicrograph (DM).
+
+open-batch-FFT-MASK is a DigitalMicrograph (DM) custom script which allows batch-FFT filtering using manually applied masks to all open STEM images
 
 
 
